@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "Amen"
+    },
+    {
+      "intent": "GetMe"
+    },
+    {
+      "intent": "Hallelujah"
+    }
+  ]
+}
