@@ -1,3 +1,9 @@
+// Author: Cameron Brewer
+// Date: January 8, 2017
+// Version: 1.0
+// -----------------------
+// Alexa skill that channels inner Katt Williams
+
 exports.handler = (event, context) => {
 
   try{
